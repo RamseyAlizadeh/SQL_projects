@@ -1,4 +1,7 @@
 /* 
+
+Customers and Products Analysis Using SQL
+
 The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making.
 
 Below are the questions we want to answer for this project.
